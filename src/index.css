@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-item {
+    @apply text-white text-xl 
+}
+
+
+.info-item{
+    @apply text-center
+}
